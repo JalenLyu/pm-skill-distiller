@@ -1,0 +1,6 @@
+interface:
+  display_name: "PM Skill Distiller"
+  short_description: "Distill PM PRD habits into reusable copilot skills."
+  default_prompt: "Use $pm-distiller to distill a personalized PRD copilot from this Confluence page, user name, and local folder."
+policy:
+  allow_implicit_invocation: true
